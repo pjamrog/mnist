@@ -1,1 +1,1 @@
-# mnist
+MNIST - Kaggle Competition "Digit Recognizer"
